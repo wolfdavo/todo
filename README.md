@@ -58,3 +58,5 @@ If you'd like to see all the tasks you have in the queue, with their priority sc
 ```/score``` -- Prints out your score
 
 ```/inspire``` -- A personalized inspirational message
+
+```/delete``` -- Select tasks from backlog to delete
